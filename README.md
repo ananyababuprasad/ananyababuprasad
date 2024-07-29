@@ -17,6 +17,6 @@ Welcome to my GitHub profile! I’m a dedicated student with a passion for codin
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/ananya-b-00b99928b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananya-b-00b99928b)
 
 
